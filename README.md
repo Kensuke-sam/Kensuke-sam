@@ -204,13 +204,13 @@ The point is not to fit one label. The point is to keep combining tools, ideas, 
 
 <div align="center">
 
-[![qai-checker-mini](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=qai-checker-mini&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/qai-checker-mini)
+[![baito-kuchikomi](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=baito-kuchikomi&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/baito-kuchikomi)
 
 </div>
 
 | Project | Description |
 |---------|-------------|
-| **[`qai-checker-mini`](https://github.com/Kensuke-sam/qai-checker-mini)** | An AI-era document consistency checker built to reduce review friction and catch mismatches faster. |
+| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | A student-focused review platform that helps users avoid risky part-time jobs and compare workplaces with more confidence. |
 | **`AI experiments`** | Small prototypes that test how far AI-assisted development can stretch solo building capacity. |
 | **`Micro tools`** | Lightweight utilities designed to turn everyday friction into practical leverage. |
 
