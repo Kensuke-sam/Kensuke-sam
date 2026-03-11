@@ -39,19 +39,19 @@ $ whoami
 Kensuke / Tokyo / Toyo University (INIAD)
 
 $ current-mode
-AI-first developer building with Python, JavaScript, GitHub, and AI copilots
+Developer using Python, JavaScript, and AI tools to build and ship products
 
 $ mission
-Turn ideas into shipped tools before they go stale
+Turn ideas into working tools before the motivation fades
 ```
 
-> I build at the intersection of **AI, software, and rapid experimentation**.
-> My default workflow is simple: prototype fast, use AI aggressively, and ship.
+> I build at the intersection of **AI and software**, with a focus on rapid experimentation.
+> My workflow: prototype quickly, lean on AI tools, and ship.
 
 <table>
 <tr>
 <td width="60" align="center">🤖</td>
-<td><strong>AI-native builder</strong> using models as part of the real development stack.</td>
+<td>Integrates <strong>AI models into the actual development process</strong>, not just for autocomplete.</td>
 </tr>
 <tr>
 <td align="center">🚢</td>
@@ -59,7 +59,7 @@ Turn ideas into shipped tools before they go stale
 </tr>
 <tr>
 <td align="center">⚙️</td>
-<td>Interested in <strong>micro-products, useful tools, and personal leverage</strong>.</td>
+<td>Building <strong>lightweight tools and micro-products</strong> that solve real problems.</td>
 </tr>
 </table>
 
@@ -125,9 +125,9 @@ Turn ideas into shipped tools before they go stale
 
 | Project | Description |
 |---------|-------------|
-| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | A student-focused review platform for comparing part-time workplaces with more confidence. |
-| **`AI experiments`** | Small prototypes exploring how far AI-assisted solo building can go. |
-| **`Micro tools`** | Lightweight utilities that turn everyday friction into leverage. |
+| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | A student-focused review platform for comparing part-time workplaces. Built with TypeScript and PostgreSQL. |
+| **`AI experiments`** | Small prototypes testing the limits of AI-assisted solo development — from prompt pipelines to lightweight agents. |
+| **`Micro tools`** | Focused utilities that automate repetitive tasks and reduce everyday friction. |
 
 <br>
 
@@ -141,12 +141,26 @@ Turn ideas into shipped tools before they go stale
 
 |  | Focus |
 |:---:|:---|
-| 🔬 | AI-powered tools for review, checking, and information work |
-| 🔄 | Solo workflows that combine prompting, coding, and automation |
+| 🔬 | AI-assisted tools for information processing, fact-checking, and review tasks |
+| 🔄 | Solo workflows combining prompting, coding, and automation |
 | ⚡ | Small products with fast launch cycles and real utility |
-| 🎯 | Building skills at the intersection of AI, startups, and software |
+| 🎯 | Building at the intersection of AI, startups, and software engineering |
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:f59e0b&height=2" width="100%" alt="" />
+
+<br>
+
+## 日本語での紹介
+
+東洋大学 INIAD（情報連携学部）在学中の学生エンジニアです。
+Python・TypeScript を中心に、AI ツールと組み合わせた開発を日常的に行っています。
+「アイデアをすばやくプロトタイプ化してリリースする」ことを開発の軸に置き、
+AI × ソフトウェアの可能性を実験しながら学んでいます。
+個人開発やマイクロプロダクトを通じて、実際に使える小さなツールを作り続けています。
 
 <br>
 
