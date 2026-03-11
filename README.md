@@ -17,8 +17,8 @@
 
 <br><br>
 
-**`The edge is not typing everything by hand.`**<br>
-**`It is directing intelligence and shipping useful things.`**
+**`The edge is not in typing everything by hand.`**<br>
+**`It is in directing AI well and shipping things that work.`**
 
 <br>
 
@@ -39,13 +39,13 @@ $ mission
 Turn ideas into working tools before the motivation fades
 ```
 
-> I build at the intersection of **AI and software**, with a focus on rapid experimentation.
-> My workflow: prototype quickly, lean on AI tools, and ship.
+> I work across AI and software, with a focus on rapid experimentation.
+> My workflow: prototype quickly, use AI as a real tool, and ship.
 
 <table>
 <tr>
 <td width="60" align="center">🤖</td>
-<td>Integrates <strong>AI models into the actual development process</strong>, not just for autocomplete.</td>
+<td>Uses <strong>AI models as part of the actual development stack</strong>, not just for autocomplete.</td>
 </tr>
 <tr>
 <td align="center">🚢</td>
@@ -53,7 +53,7 @@ Turn ideas into working tools before the motivation fades
 </tr>
 <tr>
 <td align="center">⚙️</td>
-<td>Building <strong>lightweight tools and micro-products</strong> that solve real problems.</td>
+<td>Drawn to <strong>lightweight tools and micro-products</strong> that solve real, specific problems.</td>
 </tr>
 </table>
 
@@ -91,7 +91,7 @@ Turn ideas into working tools before the motivation fades
 
 <br><br>
 
-`rapid prototyping` · `automation` · `useful AI tools` · `lean product experiments`
+`rapid prototyping` · `automation` · `AI-assisted workflows` · `small product experiments`
 
 </div>
 
@@ -108,9 +108,9 @@ Turn ideas into working tools before the motivation fades
 
 | Project | Description |
 |---------|-------------|
-| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | A student-focused review platform for comparing part-time workplaces. Built with TypeScript and PostgreSQL. |
-| **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that generates tweet drafts from article URLs using Gemini, Claude, or Codex. No Twitter API key needed. Python. |
-| **`Micro tools`** | Focused utilities that automate repetitive tasks and reduce everyday friction. |
+| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | Review platform for part-time jobs, aimed at students making more informed choices. TypeScript + PostgreSQL. |
+| **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that generates tweet drafts from article URLs via Gemini, Claude, or Codex. No Twitter API key required. Python. |
+| **`Micro tools`** | Small scripts and utilities built to remove friction from my own development workflow. |
 
 ---
 
@@ -120,10 +120,10 @@ Turn ideas into working tools before the motivation fades
 
 |  | Focus |
 |:---:|:---|
-| 🔬 | AI-assisted tools for information processing, fact-checking, and review tasks |
-| 🔄 | Solo workflows combining prompting, coding, and automation |
-| ⚡ | Small products with fast launch cycles and real utility |
-| 🎯 | Building at the intersection of AI, startups, and software engineering |
+| 🔬 | AI-assisted tools for information work — review, fact-checking, summarization |
+| 🔄 | Solo workflows that combine prompting, coding, and automation |
+| ⚡ | Small products with short build cycles and practical utility |
+| 🎯 | Growing as a developer at the overlap of AI, software, and startup thinking |
 
 </div>
 
@@ -135,17 +135,16 @@ Turn ideas into working tools before the motivation fades
 
 ## 日本語での紹介
 
-東洋大学 INIAD（情報連携学部）在学中の学生エンジニアです。
-Python・TypeScript を中心に、AI ツールと組み合わせた開発を日常的に行っています。
-「アイデアをすばやくプロトタイプ化してリリースする」ことを開発の軸に置き、
-AI × ソフトウェアの可能性を実験しながら学んでいます。
-個人開発やマイクロプロダクトを通じて、実際に使える小さなツールを作り続けています。
+東洋大学 INIAD（情報連携学部）に通っている Kensuke です。
+Python と TypeScript を中心に、AI を組み合わせた開発を日常的にやっています。
+「思いついたらすぐ作る」を大事にしていて、小さくても実際に使えるものを作ることが好きです。
+個人開発を通じて、AI × ソフトウェアの可能性を探りながらスキルを伸ばしています。
 
 <br>
 
 <div align="center">
 
-**Building quickly, learning in public, and optimizing for leverage.**
+**Writing code, shipping things, and figuring it out as I go.**
 
 <br><br>
 
