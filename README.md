@@ -30,32 +30,39 @@
 
 ```bash
 $ whoami
-Kensuke / Tokyo / Toyo University (INIAD)
+Kensuke / Tokyo / First-year at Toyo University (INIAD)
 
 $ current-mode
 Python / TypeScript developer building AI-powered tools and micro products
 
 $ mission
-Turn ideas into working tools before the motivation fades
+Turn repetitive work and early-stage ideas into usable tools before momentum is lost
 ```
 
-> I work across AI and software, with a focus on rapid experimentation.
-> My workflow: prototype quickly, use AI as a real tool, and ship.
+> This portfolio solves a simple problem: it helps recruiters and developers quickly understand what I build, how I work, and how I use AI in real projects.
+> I focus on rapid prototyping, practical automation, and shipping small tools that solve specific problems.
 
 <table>
 <tr>
 <td width="60" align="center">🤖</td>
-<td>Uses <strong>AI models as part of the actual development stack</strong>, not just for autocomplete.</td>
+<td>Uses <strong>AI tools as part of the real development workflow</strong> for prototyping, debugging, and iteration.</td>
 </tr>
 <tr>
 <td align="center">🚢</td>
-<td>Focused on <strong>shipping products</strong>, automation, and short feedback loops.</td>
+<td>Focused on <strong>shipping practical products</strong>, automation, and short feedback loops.</td>
 </tr>
 <tr>
 <td align="center">⚙️</td>
-<td>Drawn to <strong>lightweight tools and micro-products</strong> that solve real, specific problems.</td>
+<td>Drawn to <strong>lightweight tools and micro-products</strong> that reduce friction and solve specific problems.</td>
 </tr>
 </table>
+
+---
+
+## Why I Built This
+
+- I wanted a portfolio that shows real projects and working tools, not just a list of technologies.
+- Most of what I build starts with a small, concrete problem and turns into a fast prototype that can be tested, improved, and shared.
 
 ---
 
@@ -91,9 +98,16 @@ Turn ideas into working tools before the motivation fades
 
 <br><br>
 
-`rapid prototyping` · `automation` · `AI-assisted workflows` · `small product experiments`
+`Python / TypeScript` · `Git / GitHub` · `Claude Code / Codex / ChatGPT / Gemini` · `rapid prototyping` · `automation`
 
 </div>
+
+---
+
+## Development Approach
+
+- I use AI tools for rapid prototyping, debugging, and exploring implementation options.
+- I handle the architecture decisions, feature design, and final review before anything is published.
 
 ---
 
@@ -108,9 +122,9 @@ Turn ideas into working tools before the motivation fades
 
 | Project | Description |
 |---------|-------------|
-| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | Review platform for part-time jobs, aimed at students making more informed choices. TypeScript + PostgreSQL. |
-| **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that generates tweet drafts from article URLs via Gemini, Claude, or Codex. No Twitter API key required. Python. |
-| **`Micro tools`** | Small scripts and utilities built to remove friction from my own development workflow. |
+| **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | Review platform that helps students compare part-time jobs using firsthand experiences and clearer information. TypeScript + PostgreSQL. |
+| **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that turns article URLs into draft posts with Gemini, Claude, or Codex. Built for faster content workflows without a Twitter API key. Python. |
+| **`Micro tools`** | Small scripts and utilities built to automate repetitive tasks and reduce friction in my own workflow. |
 
 ---
 
@@ -120,10 +134,10 @@ Turn ideas into working tools before the motivation fades
 
 |  | Focus |
 |:---:|:---|
-| 🔬 | AI-assisted tools for information work — review, fact-checking, summarization |
+| 🔬 | AI-assisted tools for information work: review, fact-checking, and summarization |
 | 🔄 | Solo workflows that combine prompting, coding, and automation |
-| ⚡ | Small products with short build cycles and practical utility |
-| 🎯 | Growing as a developer at the overlap of AI, software, and startup thinking |
+| ⚡ | Small products with short build cycles, clear scope, and practical utility |
+| 🎯 | Growing at the overlap of AI-assisted development, software engineering, and startup thinking |
 
 </div>
 
