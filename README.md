@@ -117,6 +117,7 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 [![baito-kuchikomi](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=baito-kuchikomi&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/baito-kuchikomi)
 [![twitter-cli-bot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-cli-bot&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-cli-bot)
+[![twitter-ai-agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-ai-agent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-ai-agent)
 
 </div>
 
@@ -124,6 +125,7 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 |---------|-------------|
 | **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | Review platform that helps students compare part-time jobs using firsthand experiences and clearer information. TypeScript + PostgreSQL. |
 | **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that turns article URLs into draft posts with Gemini, Claude, or Codex. Built for faster content workflows without a Twitter API key. Python. |
+| **[`twitter-ai-agent`](https://github.com/Kensuke-sam/twitter-ai-agent)** | CLI-first AI-assisted posting engine for X / Twitter with dry-run safety, lightweight scoring, history tracking, and separate execution and decision layers. Python. |
 | **`Micro tools`** | Small scripts and utilities built to automate repetitive tasks and reduce friction in my own workflow. |
 
 ---
