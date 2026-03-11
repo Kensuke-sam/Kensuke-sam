@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/Kensuke-sam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=AI-first+developer;Building+tools+and+micro-products;Human+intent+%C3%97+AI+acceleration+%C3%97+rapid+iteration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=Python+%2F+TypeScript+developer;Building+AI-powered+micro+products;Prototype+fast%2C+ship+faster" alt="Typing SVG" />
 </a>
 
 <br>
@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/Toyo_University-INIAD-14532d?style=for-the-badge" alt="Toyo University" />
 <img src="https://img.shields.io/badge/Mode-AI--First_Development-b91c1c?style=for-the-badge&logo=openai&logoColor=white" alt="AI First Development" />
 <img src="https://img.shields.io/badge/Focus-Building_%26_Shipping-f59e0b?style=for-the-badge" alt="Building and Shipping" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Kensuke-sam&style=for-the-badge&color=0ea5e9" alt="Profile views" />
 
 <br><br>
 
@@ -28,18 +24,16 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:f59e0b&height=2" width="100%" alt="" />
+---
 
-<br>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&ensp;About
+## About
 
 ```bash
 $ whoami
 Kensuke / Tokyo / Toyo University (INIAD)
 
 $ current-mode
-Developer using Python, JavaScript, and AI tools to build and ship products
+Python / TypeScript developer building AI-powered tools and micro products
 
 $ mission
 Turn ideas into working tools before the motivation fades
@@ -63,13 +57,9 @@ Turn ideas into working tools before the motivation fades
 </tr>
 </table>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:f59e0b&height=2" width="100%" alt="" />
-
-<br>
-
-## 📊&ensp;Dashboard
+## 📊 Dashboard
 
 <div align="center">
 
@@ -78,20 +68,16 @@ Turn ideas into working tools before the motivation fades
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:f59e0b&height=2" width="100%" alt="" />
-
-<br>
-
-## 🛠️&ensp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Core
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github&theme=dark" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,git,github&theme=dark" alt="Core skills" />
 </a>
 
 <br><br>
@@ -109,33 +95,26 @@ Turn ideas into working tools before the motivation fades
 
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:f59e0b&height=2" width="100%" alt="" />
-
-<br>
-
-## 📦&ensp;Featured Work
+## 📦 Featured Work
 
 <div align="center">
 
 [![baito-kuchikomi](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=baito-kuchikomi&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/baito-kuchikomi)
+[![twitter-cli-bot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-cli-bot&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-cli-bot)
 
 </div>
 
 | Project | Description |
 |---------|-------------|
 | **[`baito-kuchikomi`](https://github.com/Kensuke-sam/baito-kuchikomi)** | A student-focused review platform for comparing part-time workplaces. Built with TypeScript and PostgreSQL. |
-| **`AI experiments`** | Small prototypes testing the limits of AI-assisted solo development — from prompt pipelines to lightweight agents. |
+| **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that generates tweet drafts from article URLs using Gemini, Claude, or Codex. No Twitter API key needed. Python. |
 | **`Micro tools`** | Focused utilities that automate repetitive tasks and reduce everyday friction. |
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:f59e0b&height=2" width="100%" alt="" />
-
-<br>
-
-## 🚀&ensp;Current Focus
+## 🚀 Current Focus
 
 <div align="center">
 
