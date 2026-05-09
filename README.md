@@ -84,7 +84,7 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 ### Core
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,git,github&theme=dark" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,swift,godot,git,github&theme=dark" alt="Core skills" />
 </a>
 
 <br><br>
@@ -98,7 +98,7 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 <br><br>
 
-`Python / TypeScript` · `Git / GitHub` · `Claude Code / Codex / ChatGPT / Gemini` · `rapid prototyping` · `automation`
+`Rust / Python / TypeScript / Swift / GDScript` · `Git / GitHub` · `Claude Code / Codex / ChatGPT / Gemini` · `rapid prototyping` · `automation`
 
 </div>
 
