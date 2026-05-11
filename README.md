@@ -70,7 +70,7 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kensuke-sam&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b&ring_color=f59e0b)](https://github.com/Kensuke-sam)
+[![GitHub stats](./assets/stats.svg)](https://github.com/Kensuke-sam)
 [![Top languages](./assets/top-langs.svg)](https://github.com/Kensuke-sam?tab=repositories)
 
 </div>
