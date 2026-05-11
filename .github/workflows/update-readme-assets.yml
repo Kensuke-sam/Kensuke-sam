@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.READ_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
@@ -20,12 +22,12 @@ jobs:
 
       - name: Generate top languages SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
         run: python scripts/generate_top_langs.py
 
       - name: Generate stats SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
         run: python scripts/generate_stats.py
 
       - name: Commit changes if any
