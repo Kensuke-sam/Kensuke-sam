@@ -144,6 +144,28 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 ---
 
+## 💼 AI Business Tools — 10 Live Micro-Products
+
+Ten small AI-assisted web tools for everyday office work. All open in the browser — no signup, no API key required for the free tier.
+**Custom rollout and team plans start at ¥9,800. Contact: [kenkenhaso@gmail.com](mailto:kenkenhaso@gmail.com)**
+
+| Tool | What it does | Live |
+|---|---|---|
+| **[ai-meeting-tasker](https://github.com/Kensuke-sam/ai-meeting-tasker)** | Turns meeting minutes into a Markdown task list with owners & due dates | [open ↗](https://ai-meeting-tasker.vercel.app) |
+| **[ai-work-prompt-builder](https://github.com/Kensuke-sam/ai-work-prompt-builder)** | Generates role-specific AI prompts for 10 common office tasks | [open ↗](https://ai-work-prompt-builder.vercel.app) |
+| **[ai-daily-report-maker](https://github.com/Kensuke-sam/ai-daily-report-maker)** | Converts raw work logs into a structured daily report | [open ↗](https://ai-daily-report-maker.vercel.app) |
+| **[ai-sales-memo-organizer](https://github.com/Kensuke-sam/ai-sales-memo-organizer)** | Cleans raw sales notes into a CRM-ready summary | [open ↗](https://ai-sales-memo-organizer.vercel.app) |
+| **[ai-form-sheet-cleaner](https://github.com/Kensuke-sam/ai-form-sheet-cleaner)** | Parses free-text form responses into clean spreadsheet rows | [open ↗](https://ai-form-sheet-cleaner.vercel.app) |
+| **[ai-job-posting-formatter](https://github.com/Kensuke-sam/ai-job-posting-formatter)** | Reformats job descriptions per channel (LinkedIn / Wantedly / etc.) | [open ↗](https://ai-job-posting-formatter.vercel.app) |
+| **[ai-slack-polisher](https://github.com/Kensuke-sam/ai-slack-polisher)** | Polishes Slack drafts into clearer, team-friendly messages | [open ↗](https://ai-slack-polisher.vercel.app) |
+| **[ai-pr-review-helper](https://github.com/Kensuke-sam/ai-pr-review-helper)** | Rewrites PR review comments to a consistent, kind tone | [open ↗](https://ai-pr-review-helper.vercel.app) |
+| **[ai-faq-maker](https://github.com/Kensuke-sam/ai-faq-maker)** | Turns a list of inquiries into a clean FAQ document | [open ↗](https://ai-faq-maker.vercel.app) |
+| **[ai-interview-next-action](https://github.com/Kensuke-sam/ai-interview-next-action)** | Extracts next actions from 1:1 / interview notes | [open ↗](https://ai-interview-next-action.vercel.app) |
+
+Built with Next.js 15 + TypeScript + Tailwind. Each tool ships with a free landing page, pricing tiers, and a 14-day money-back guarantee.
+
+---
+
 ## 🚀 Current Focus
 
 <div align="center">
@@ -169,6 +191,10 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 Python と TypeScript を中心に、AI を組み合わせた開発を日常的にやっています。
 「思いついたらすぐ作る」を大事にしていて、小さくても実際に使えるものを作ることが好きです。
 個人開発を通じて、AI × ソフトウェアの可能性を探りながらスキルを伸ばしています。
+
+**AI 業務改善ツール 10 本を公開しています**（議事録 → タスク化 / 日報自動作成 / 営業メモ整理 など）。
+御社業務に合わせたカスタマイズや社内研修も承ります。導入支援は **9,800 円〜**、14 日返金保証つき。
+お問い合わせ: [kenkenhaso@gmail.com](mailto:kenkenhaso@gmail.com)
 
 <br>
 
