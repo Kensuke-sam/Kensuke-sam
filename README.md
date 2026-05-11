@@ -71,7 +71,7 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 <div align="center">
 
 [![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kensuke-sam&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b&ring_color=f59e0b)](https://github.com/Kensuke-sam)
-[![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kensuke-sam&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&exclude_repo=baito-kuchikomi,claw-wrap,claw-code,floorp-ios)](https://github.com/Kensuke-sam)
+[![Top languages](./assets/top-langs.svg)](https://github.com/Kensuke-sam?tab=repositories)
 
 </div>
 
@@ -117,6 +117,8 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 [![twitter-cli-bot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-cli-bot&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-cli-bot)
 [![twitter-ai-agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-ai-agent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-ai-agent)
+[![koteihi-zero](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=koteihi-zero&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/koteihi-zero)
+[![catbento](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=catbento&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/catbento)
 
 </div>
 
@@ -124,6 +126,8 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 |---------|-------------|
 | **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that turns article URLs into draft posts with Gemini, Claude, or Codex. Built for faster content workflows without a Twitter API key. Python. |
 | **[`twitter-ai-agent`](https://github.com/Kensuke-sam/twitter-ai-agent)** | CLI-first AI-assisted posting engine for X / Twitter with dry-run safety, lightweight scoring, history tracking, and separate execution and decision layers. Python. |
+| **[`koteihi-zero`](https://github.com/Kensuke-sam/koteihi-zero)** | Affiliate content engine that generates per-program article prompts from a single spreadsheet source. Tracks article freshness, offer health, and HTML safety with weekly automated checks. TypeScript. |
+| **[`catbento`](https://github.com/Kensuke-sam/catbento)** | Cozy iOS idle game where cats make bento boxes. SwiftUI + SpriteKit, offline coin accumulation, upgrade and collection systems. Swift. |
 | **`Micro tools`** | Small scripts and utilities built to automate repetitive tasks and reduce friction in my own workflow. |
 
 ---
