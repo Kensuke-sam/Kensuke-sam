@@ -70,8 +70,12 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 <div align="center">
 
-[![GitHub stats](./assets/stats.svg)](https://github.com/Kensuke-sam)
-[![Top languages](./assets/top-langs.svg)](https://github.com/Kensuke-sam?tab=repositories)
+<a href="https://github.com/Kensuke-sam">
+  <img src="./assets/stats.svg" width="48%" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Kensuke-sam?tab=repositories">
+  <img src="./assets/top-langs.svg" width="48%" alt="Top languages" />
+</a>
 
 </div>
 
@@ -115,10 +119,18 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 
 <div align="center">
 
-[![twitter-cli-bot](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-cli-bot&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-cli-bot)
-[![twitter-ai-agent](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=twitter-ai-agent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/twitter-ai-agent)
-[![koteihi-zero](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=koteihi-zero&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/koteihi-zero)
-[![catbento](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kensuke-sam&repo=catbento&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/Kensuke-sam/catbento)
+<a href="https://github.com/Kensuke-sam/twitter-cli-bot">
+  <img src="./assets/pin-twitter-cli-bot.svg" width="48%" alt="twitter-cli-bot" />
+</a>
+<a href="https://github.com/Kensuke-sam/twitter-ai-agent">
+  <img src="./assets/pin-twitter-ai-agent.svg" width="48%" alt="twitter-ai-agent" />
+</a>
+<a href="https://github.com/Kensuke-sam/koteihi-zero">
+  <img src="./assets/pin-koteihi-zero.svg" width="48%" alt="koteihi-zero" />
+</a>
+<a href="https://github.com/Kensuke-sam/catbento">
+  <img src="./assets/pin-catbento.svg" width="48%" alt="catbento" />
+</a>
 
 </div>
 
