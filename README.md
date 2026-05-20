@@ -30,22 +30,19 @@
 
 ```bash
 $ whoami
-Kensuke / Tokyo / First-year at Toyo University (INIAD)
+Kensuke / Tokyo / Toyo Univ. (INIAD)
 
 $ current-mode
-Python / TypeScript developer building AI-powered tools and micro products
+Python / TypeScript dev building AI-powered tools
 
 $ mission
-Turn repetitive work and early-stage ideas into usable tools before momentum is lost
+Ship small, practical tools before momentum is lost
 ```
-
-> This portfolio solves a simple problem: it helps recruiters and developers quickly understand what I build, how I work, and how I use AI in real projects.
-> I focus on rapid prototyping, practical automation, and shipping small tools that solve specific problems.
 
 <table>
 <tr>
 <td width="60" align="center">🤖</td>
-<td>Uses <strong>AI tools as part of the real development workflow</strong> for prototyping, debugging, and iteration.</td>
+<td>Uses <strong>AI for prototyping and debugging</strong>, while owning architecture, feature design, and final review.</td>
 </tr>
 <tr>
 <td align="center">🚢</td>
@@ -56,13 +53,6 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 <td>Drawn to <strong>lightweight tools and micro-products</strong> that reduce friction and solve specific problems.</td>
 </tr>
 </table>
-
----
-
-## Why I Built This
-
-- I wanted a portfolio that shows real projects and working tools, not just a list of technologies.
-- Most of what I build starts with a small, concrete problem and turns into a fast prototype that can be tested, improved, and shared.
 
 ---
 
@@ -105,13 +95,6 @@ Turn repetitive work and early-stage ideas into usable tools before momentum is 
 `Python / TypeScript / Swift / Rust / GDScript` · `Git / GitHub` · `Claude Code / Codex / ChatGPT / Gemini` · `rapid prototyping` · `automation`
 
 </div>
-
----
-
-## Development Approach
-
-- I use AI tools for rapid prototyping, debugging, and exploring implementation options.
-- I handle the architecture decisions, feature design, and final review before anything is published.
 
 ---
 
@@ -187,10 +170,8 @@ Built with Next.js 15 + TypeScript + Tailwind. Each tool ships with a free landi
 
 ## 日本語での紹介
 
-東洋大学 INIAD（情報連携学部）に通っている Kensuke です。
-Python と TypeScript を中心に、AI を組み合わせた開発を日常的にやっています。
-「思いついたらすぐ作る」を大事にしていて、小さくても実際に使えるものを作ることが好きです。
-個人開発を通じて、AI × ソフトウェアの可能性を探りながらスキルを伸ばしています。
+東洋大学 INIAD に通う Kensuke です。Python / TypeScript を中心に、AI を組み合わせた開発をしています。
+「思いついたらすぐ作る」を大事に、小さくても実際に使えるツールを作っています。
 
 **AI 業務改善ツール 10 本を公開しています**（議事録 → タスク化 / 日報自動作成 / 営業メモ整理 など）。
 御社業務に合わせたカスタマイズや社内研修も承ります。導入支援は **9,800 円〜**、14 日返金保証つき。
