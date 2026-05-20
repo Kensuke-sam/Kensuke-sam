@@ -127,10 +127,9 @@ Ship small, practical tools before momentum is lost
 
 ---
 
-## 💼 AI Business Tools — 10 Live Micro-Products
+## 🧰 AI Micro-Tools — 10 small web tools
 
-Ten small AI-assisted web tools for everyday office work. All open in the browser — no signup, no API key required for the free tier.
-**Custom rollout and team plans start at ¥9,800. Contact: [kenkenhaso@gmail.com](mailto:kenkenhaso@gmail.com)**
+Ten small AI-assisted web tools for everyday office work. All open in the browser — no signup, no API key required.
 
 | Tool | What it does | Live |
 |---|---|---|
@@ -145,7 +144,7 @@ Ten small AI-assisted web tools for everyday office work. All open in the browse
 | **[ai-faq-maker](https://github.com/Kensuke-sam/ai-faq-maker)** | Turns a list of inquiries into a clean FAQ document | [open ↗](https://ai-faq-maker.vercel.app) |
 | **[ai-interview-next-action](https://github.com/Kensuke-sam/ai-interview-next-action)** | Extracts next actions from 1:1 / interview notes | [open ↗](https://ai-interview-next-action.vercel.app) |
 
-Built with Next.js 15 + TypeScript + Tailwind. Each tool ships with a free landing page, pricing tiers, and a 14-day money-back guarantee.
+Built with Next.js 15 + TypeScript + Tailwind. Each tool ships with a simple landing page.
 
 ---
 
@@ -173,9 +172,7 @@ Built with Next.js 15 + TypeScript + Tailwind. Each tool ships with a free landi
 東洋大学 INIAD に通う Kensuke です。Python / TypeScript を中心に、AI を組み合わせた開発をしています。
 「思いついたらすぐ作る」を大事に、小さくても実際に使えるツールを作っています。
 
-**AI 業務改善ツール 10 本を公開しています**（議事録 → タスク化 / 日報自動作成 / 営業メモ整理 など）。
-御社業務に合わせたカスタマイズや社内研修も承ります。導入支援は **9,800 円〜**、14 日返金保証つき。
-お問い合わせ: [kenkenhaso@gmail.com](mailto:kenkenhaso@gmail.com)
+AI 業務系の小ツールも 10 本公開しています（議事録 → タスク化 / 日報作成 / 営業メモ整理 など）。
 
 <br>
 
