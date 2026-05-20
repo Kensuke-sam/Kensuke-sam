@@ -36,7 +36,7 @@ $ current-mode
 Python / TypeScript dev building AI-powered tools
 
 $ mission
-Ship small, practical tools before momentum is lost
+Turn small ideas into working tools before momentum is lost
 ```
 
 <table>
@@ -90,10 +90,6 @@ Ship small, practical tools before momentum is lost
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Gemini-8ab4f8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 
-<br><br>
-
-`Python / TypeScript / Swift / Rust / GDScript` · `Git / GitHub` · `Claude Code / Codex / ChatGPT / Gemini` · `rapid prototyping` · `automation`
-
 </div>
 
 ---
@@ -123,7 +119,6 @@ Ship small, practical tools before momentum is lost
 | **[`twitter-ai-agent`](https://github.com/Kensuke-sam/twitter-ai-agent)** | CLI-first AI-assisted posting engine for X / Twitter with dry-run safety, lightweight scoring, history tracking, and separate execution and decision layers. Python. |
 | **[`koteihi-zero`](https://github.com/Kensuke-sam/koteihi-zero)** | Affiliate content engine that generates per-program article prompts from a single spreadsheet source. Tracks article freshness, offer health, and HTML safety with weekly automated checks. TypeScript. |
 | **[`catbento`](https://github.com/Kensuke-sam/catbento)** | Cozy iOS idle game where cats make bento boxes. SwiftUI + SpriteKit, offline coin accumulation, upgrade and collection systems. Swift. |
-| **`Micro tools`** | Small scripts and utilities built to automate repetitive tasks and reduce friction in my own workflow. |
 
 ---
 
@@ -178,7 +173,7 @@ AI 業務系の小ツールも 10 本公開しています（議事録 → タ�
 
 <div align="center">
 
-**Writing code, shipping things, and figuring it out as I go.**
+**Writing code, building things, and figuring it out as I go.**
 
 <br><br>
 
