@@ -1,8 +1,9 @@
 """Generate a Top Languages SVG card from GitHub repository language stats.
 
 Counts bytes per language across all non-fork, non-archived repositories the
-user owns, excluding repositories listed in EXCLUDE_REPOS. Renders a compact
-horizontal-bar SVG card compatible with the existing README dashboard.
+user owns, excluding repositories listed in EXCLUDE_REPOS and languages listed
+in EXCLUDE_LANGUAGES. Renders a compact horizontal-bar SVG card compatible with
+the existing README dashboard.
 """
 
 from __future__ import annotations
@@ -20,6 +21,9 @@ EXCLUDE_REPOS = {
     "claw-wrap",
     "claw-code",
     "floorp-ios",
+}
+EXCLUDE_LANGUAGES = {
+    "Jupyter Notebook",
 }
 TOP_N = 5
 OUT_PATH = Path(__file__).resolve().parent.parent / "assets" / "top-langs.svg"
@@ -99,6 +103,8 @@ def fetch_language_totals(token: str) -> dict[str, int]:
                 continue
             for edge in repo["languages"]["edges"]:
                 name = edge["node"]["name"]
+                if name in EXCLUDE_LANGUAGES:
+                    continue
                 totals[name] = totals.get(name, 0) + edge["size"]
         if not repos["pageInfo"]["hasNextPage"]:
             break
