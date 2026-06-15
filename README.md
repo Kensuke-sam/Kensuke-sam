@@ -64,7 +64,7 @@ Turn small ideas into working tools before momentum is lost
   <img src="./assets/stats.svg" width="48%" alt="GitHub stats" />
 </a>
 <a href="https://github.com/Kensuke-sam?tab=repositories">
-  <img src="./assets/top-langs.svg" width="48%" alt="Top languages" />
+  <img src="./assets/top-langs.svg?v=20260615-notebook-excluded" width="48%" alt="Top languages" />
 </a>
 
 </div>
