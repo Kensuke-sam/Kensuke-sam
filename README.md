@@ -104,12 +104,6 @@ Turn small ideas into working tools before momentum is lost
 <a href="https://github.com/Kensuke-sam/twitter-ai-agent">
   <img src="./assets/pin-twitter-ai-agent.svg" width="48%" alt="twitter-ai-agent" />
 </a>
-<a href="https://github.com/Kensuke-sam/koteihi-zero">
-  <img src="./assets/pin-koteihi-zero.svg" width="48%" alt="koteihi-zero" />
-</a>
-<a href="https://github.com/Kensuke-sam/catbento">
-  <img src="./assets/pin-catbento.svg" width="48%" alt="catbento" />
-</a>
 
 </div>
 
@@ -117,8 +111,6 @@ Turn small ideas into working tools before momentum is lost
 |---------|-------------|
 | **[`twitter-cli-bot`](https://github.com/Kensuke-sam/twitter-cli-bot)** | CLI tool that turns article URLs into draft posts with Gemini, Claude, or Codex. Built for faster content workflows without a Twitter API key. Python. |
 | **[`twitter-ai-agent`](https://github.com/Kensuke-sam/twitter-ai-agent)** | CLI-first AI-assisted posting engine for X / Twitter with dry-run safety, lightweight scoring, history tracking, and separate execution and decision layers. Python. |
-| **[`koteihi-zero`](https://github.com/Kensuke-sam/koteihi-zero)** | Affiliate content engine that generates per-program article prompts from a single spreadsheet source. Tracks article freshness, offer health, and HTML safety with weekly automated checks. TypeScript. |
-| **[`catbento`](https://github.com/Kensuke-sam/catbento)** | Cozy iOS idle game where cats make bento boxes. SwiftUI + SpriteKit, offline coin accumulation, upgrade and collection systems. Swift. |
 
 ---
 
