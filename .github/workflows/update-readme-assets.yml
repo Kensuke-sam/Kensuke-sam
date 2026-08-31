@@ -20,20 +20,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate top languages SVG
-        env:
-          GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
-        run: python scripts/generate_top_langs.py
-
       - name: Generate stats SVG
         env:
           GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
         run: python scripts/generate_stats.py
-
-      - name: Generate pin cards
-        env:
-          GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
-        run: python scripts/generate_pins.py
 
       - name: Commit changes if any
         run: |
