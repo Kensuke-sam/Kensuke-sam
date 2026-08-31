@@ -4,6 +4,6 @@
   <text x="25" y="30" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="15" font-weight="600">twitter-ai-agent</text>
   <text x="25" y="52" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">CLI-first AI posting engine for generating,</text><text x="25" y="68" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">scoring, dry-running, and publishing tweets with …</text>
   <circle cx="31" cy="96" r="6" fill="#3572A5" /><text x="43" y="100" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Python</text>
-  <g transform="translate(105 87) scale(0.55)" fill="#f59e0b"><path d="M12 .288l3.708 7.515 8.292 1.205-6 5.85 1.416 8.262L12 19.04l-7.416 3.084L6 13.858 0 8.008l8.292-1.205L12 .288z" /></g><text x="123" y="100" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">0</text>
+  <g transform="translate(105 87) scale(0.55)" fill="#f59e0b"><path d="M12 .288l3.708 7.515 8.292 1.205-6 5.85 1.416 8.262L12 19.04l-7.416 3.084L6 13.858 0 8.008l8.292-1.205L12 .288z" /></g><text x="123" y="100" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">1</text>
   
 </svg>
