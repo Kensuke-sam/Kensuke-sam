@@ -43,6 +43,14 @@ I'm Kensuke, an INIAD student in Tokyo. I build small products and automations, 
 
 <sub>Updated weekly by GitHub Actions.</sub>
 
+## Most Used Languages
+
+<div align="center">
+
+<img src="./assets/top-langs.svg?v=20260831-languages" width="64%" alt="Kensuke's most used programming languages" />
+
+</div>
+
 ## Toolbox
 
 **Core:** Python · TypeScript · Swift · Next.js · Git · GitHub Actions<br>

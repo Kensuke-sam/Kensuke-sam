@@ -25,6 +25,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
         run: python scripts/generate_stats.py
 
+      - name: Generate top languages SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.READ_TOKEN }}
+        run: python scripts/generate_top_langs.py
+
       - name: Commit changes if any
         run: |
           if [[ -n "$(git status --porcelain assets/)" ]]; then
