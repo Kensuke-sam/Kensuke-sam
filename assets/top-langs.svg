@@ -1,8 +1,9 @@
-<svg width="467" height="198" viewBox="0 0 467 198" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Top Languages</title>
-  <rect width="467" height="198" rx="6" fill="#0d1117" />
-  <text x="25" y="36" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
-  <rect x="25" y="60" width="417" height="8" rx="4" fill="#1f2933" />
-  <rect x="25.00" y="60" width="161.97" height="8" fill="#F05138" /><rect x="186.97" y="60" width="142.20" height="8" fill="#e34c26" /><rect x="329.17" y="60" width="45.80" height="8" fill="#3178c6" /><rect x="374.97" y="60" width="43.68" height="8" fill="#3572A5" /><rect x="418.65" y="60" width="23.35" height="8" fill="#f1e05a" />
-  <circle cx="31" cy="96" r="5" fill="#F05138" /><text x="43" y="100" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Swift 38.84%</text><circle cx="239" cy="96" r="5" fill="#e34c26" /><text x="251" y="100" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">HTML 34.10%</text><circle cx="31" cy="124" r="5" fill="#3178c6" /><text x="43" y="128" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">TypeScript 10.98%</text><circle cx="239" cy="124" r="5" fill="#3572A5" /><text x="251" y="128" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Python 10.48%</text><circle cx="31" cy="152" r="5" fill="#f1e05a" /><text x="43" y="156" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">JavaScript 5.60%</text>
+<svg width="467" height="210" viewBox="0 0 467 210" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Recently Used Languages</title>
+  <rect width="467" height="210" rx="6" fill="#0d1117" />
+  <text x="25" y="34" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Recently Used Languages</text>
+  <text x="25" y="53" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Repositories pushed in the last 30 days</text>
+  <rect x="25" y="72" width="417" height="8" rx="4" fill="#1f2933" />
+  <rect x="25.00" y="72" width="190.49" height="8" fill="#3178c6" /><rect x="215.49" y="72" width="97.04" height="8" fill="#F05138" /><rect x="312.53" y="72" width="83.77" height="8" fill="#f1e05a" /><rect x="396.30" y="72" width="27.78" height="8" fill="#563d7c" /><rect x="424.09" y="72" width="17.91" height="8" fill="#3572A5" />
+  <circle cx="31" cy="108" r="5" fill="#3178c6" /><text x="43" y="112" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">TypeScript 45.68%</text><circle cx="239" cy="108" r="5" fill="#F05138" /><text x="251" y="112" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Swift 23.27%</text><circle cx="31" cy="136" r="5" fill="#f1e05a" /><text x="43" y="140" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">JavaScript 20.09%</text><circle cx="239" cy="136" r="5" fill="#563d7c" /><text x="251" y="140" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">CSS 6.66%</text><circle cx="31" cy="164" r="5" fill="#3572A5" /><text x="43" y="168" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Python 4.30%</text>
 </svg>

@@ -1,9 +1,8 @@
-"""Generate a Top Languages SVG card from GitHub repository language stats.
+"""Generate a recent-languages SVG card from active GitHub repositories.
 
-Counts bytes per language across all non-fork, non-archived repositories the
-user owns, excluding repositories listed in EXCLUDE_REPOS and languages listed
-in EXCLUDE_LANGUAGES. Renders a compact horizontal-bar SVG card compatible with
-the existing README dashboard.
+Counts bytes per language across non-fork, non-archived repositories the user
+has pushed to in the last 30 days. This avoids letting old large repositories
+misrepresent the languages used in current work.
 """
 
 from __future__ import annotations
@@ -13,6 +12,7 @@ import os
 import sys
 import urllib.error
 import urllib.request
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 USERNAME = "Kensuke-sam"
@@ -26,6 +26,7 @@ EXCLUDE_LANGUAGES = {
     "Jupyter Notebook",
 }
 TOP_N = 5
+RECENT_DAYS = 30
 OUT_PATH = Path(__file__).resolve().parent.parent / "assets" / "top-langs.svg"
 
 LANG_COLORS = {
@@ -82,6 +83,7 @@ query($login: String!, $cursor: String) {
       pageInfo { hasNextPage endCursor }
       nodes {
         name
+        pushedAt
         languages(first: 20, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name color } }
         }
@@ -92,15 +94,25 @@ query($login: String!, $cursor: String) {
 """
 
 
-def fetch_language_totals(token: str) -> dict[str, int]:
+def fetch_language_totals(
+    token: str, now: datetime | None = None
+) -> tuple[dict[str, int], int]:
     totals: dict[str, int] = {}
+    active_repositories = 0
+    cutoff = (now or datetime.now(timezone.utc)) - timedelta(days=RECENT_DAYS)
     cursor: str | None = None
     while True:
         data = gh_graphql(QUERY, {"login": USERNAME, "cursor": cursor}, token)
         repos = data["user"]["repositories"]
         for repo in repos["nodes"]:
-            if repo["name"] in EXCLUDE_REPOS:
+            pushed_at = repo["pushedAt"]
+            if (
+                repo["name"] in EXCLUDE_REPOS
+                or pushed_at is None
+                or datetime.fromisoformat(pushed_at.replace("Z", "+00:00")) < cutoff
+            ):
                 continue
+            active_repositories += 1
             for edge in repo["languages"]["edges"]:
                 name = edge["node"]["name"]
                 if name in EXCLUDE_LANGUAGES:
@@ -109,13 +121,14 @@ def fetch_language_totals(token: str) -> dict[str, int]:
         if not repos["pageInfo"]["hasNextPage"]:
             break
         cursor = repos["pageInfo"]["endCursor"]
-    return totals
+    return totals, active_repositories
 
 
 def render_svg(top: list[tuple[str, int, float]]) -> str:
     width = 467
-    title_y = 36
-    bar_y = 60
+    title_y = 34
+    subtitle_y = 53
+    bar_y = 72
     bar_height = 8
     bar_inner_width = width - 50
     legend_top = bar_y + bar_height + 28
@@ -156,9 +169,10 @@ def render_svg(top: list[tuple[str, int, float]]) -> str:
     track_color = "#1f2933"
 
     svg = f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg" role="img">
-  <title>Top Languages</title>
+  <title>Recently Used Languages</title>
   <rect width="{width}" height="{height}" rx="6" fill="{bg}" />
-  <text x="25" y="{title_y}" fill="{title_color}" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Most Used Languages</text>
+  <text x="25" y="{title_y}" fill="{title_color}" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600">Recently Used Languages</text>
+  <text x="25" y="{subtitle_y}" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">Repositories pushed in the last {RECENT_DAYS} days</text>
   <rect x="25" y="{bar_y}" width="{bar_inner_width}" height="{bar_height}" rx="4" fill="{track_color}" />
   {''.join(bar_segments)}
   {''.join(legend_items)}
@@ -173,7 +187,7 @@ def main() -> int:
         print("GITHUB_TOKEN or GH_TOKEN env var is required", file=sys.stderr)
         return 1
 
-    totals = fetch_language_totals(token)
+    totals, active_repositories = fetch_language_totals(token)
     if not totals:
         print("No language data found", file=sys.stderr)
         return 1
@@ -184,6 +198,7 @@ def main() -> int:
     top_total = sum(size for _, size in top_raw)
     top = [(name, size, size / top_total * 100) for name, size in top_raw]
 
+    print(f"Active repositories scanned: {active_repositories}")
     print(f"Total bytes scanned: {total_bytes:,}")
     for name, size, pct in top:
         print(f"  {name:<14} {size:>10,} bytes  {pct:6.2f}%")
