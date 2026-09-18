@@ -4,7 +4,7 @@
 
 <h3>Turning small ideas and repetitive work into useful software.</h3>
 
-<p><code>Python</code> · <code>TypeScript</code> · <code>Swift</code> · <code>AI-assisted development</code></p>
+<p><code>Python</code> · <code>TypeScript</code> · <code>Swift</code></p>
 
 </div>
 
