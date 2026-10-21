@@ -1,7 +1,7 @@
 """Generate a recent-languages SVG card from active GitHub repositories.
 
 Counts bytes per language across non-fork, non-archived repositories the user
-has pushed to in the last 30 days. This avoids letting old large repositories
+has pushed to in the last 90 days. This avoids letting old large repositories
 misrepresent the languages used in current work.
 """
 
@@ -21,12 +21,13 @@ EXCLUDE_REPOS = {
     "claw-wrap",
     "claw-code",
     "floorp-ios",
+    "Kensuke-sam",
 }
 EXCLUDE_LANGUAGES = {
     "Jupyter Notebook",
 }
 TOP_N = 5
-RECENT_DAYS = 30
+RECENT_DAYS = 90
 OUT_PATH = Path(__file__).resolve().parent.parent / "assets" / "top-langs.svg"
 
 LANG_COLORS = {
